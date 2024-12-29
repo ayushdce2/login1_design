@@ -1,0 +1,12 @@
+.my_phone_number span{
+    font-style: italic;
+    font-size: 0.8rem;
+}
+.my_login_right_login_text span{
+    font-style: italic;
+    font-size: 0.8rem;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #1F316F;
+    font-weight: bold;
+}

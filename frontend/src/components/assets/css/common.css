@@ -1,0 +1,39 @@
+@font-face {
+    font-family: poppins;
+    src: url(.././font/Poppins/Poppins-Medium.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+    font-family: poppins;
+    text-decoration: none;
+}
+
+/* FLEX STARTS */
+.flex{
+    display: flex;
+}
+.flex_column{
+    flex-direction: column;
+}
+/* FLEX ENDS */
+/* GRID STARTS */
+.grid{
+    display: grid;
+}
+/* GRID ENDS */
+.justify_sp_between{
+    justify-content: space-between;
+}
+.justify_center{
+    justify-content: center;
+}
+.align_center{
+    align-items: center;
+}
+/* text */
+.text_center{
+    text-align: center;
+}
